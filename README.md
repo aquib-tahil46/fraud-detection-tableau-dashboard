@@ -54,6 +54,12 @@ This dashboard helps financial institutions:
 
 
 ---
+## 📊 Live Dashboard
+[View on Tableau Public](https://public.tableau.com/app/profile/aquib.tahil/viz/FinancialTransactionFraudDetection/FinancialTransactionFraudDetection?publish=yes)
+
+## 📸 Dashboard Preview
+![Dashboard](<img width="1919" height="875" alt="fraud analysis" src="https://github.com/user-attachments/assets/29f4ec10-e1b2-4a98-b1e0-38ccb06a8fc7" />
+)
 
 ## 👤 Author
 
