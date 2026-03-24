@@ -1,6 +1,6 @@
 💳 Financial Transaction Fraud Analysis
-📌 Overview
 
+📌 Overview
 Analyzed 100,050 financial transactions using SQL & Tableau to identify fraud patterns, detection gaps, and high-risk behaviors in BFSI.
 
 🎯 Key Insights
@@ -35,7 +35,6 @@ Helps detect high-risk transactions, identify fraud patterns, and reduce financi
 [▶ View on Tableau Public](https://public.tableau.com/app/profile/aquib.tahil/viz/FinancialTransactionFraudDetection/FinancialTransactionFraudDetection?publish=yes)
 
 ## 📸 Dashboard Preview
-![Dashboard Preview](fraud_analysis.png)
-
+![Dashboard Preview]
 ## 👤 Author
 **Aquib Tahil
