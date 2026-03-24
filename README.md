@@ -35,6 +35,7 @@ Helps detect high-risk transactions, identify fraud patterns, and reduce financi
 [▶ View on Tableau Public](https://public.tableau.com/app/profile/aquib.tahil/viz/FinancialTransactionFraudDetection/FinancialTransactionFraudDetection?publish=yes)
 
 ## 📸 Dashboard Preview
-![Dashboard Preview]
+![Dashboard Preview](fraud_analysis.png)
+
 ## 👤 Author
 **Aquib Tahil
